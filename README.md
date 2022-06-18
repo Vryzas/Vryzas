@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vitor
 - 👀 I’m interested in programming (learning)
-- 🌱 I’m currently learning C#(ish)...
+- 🌱 I’m currently learning JavaScript (Node.js)...
 - 📫 How to reach me vryzas27@gmail.com or ispg2019103248@ispgaya.pt
 
 <!---
