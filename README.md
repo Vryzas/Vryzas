@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vitor
-- 👀 I’m interested in programming (learning)
-- 🌱 I’m currently learning JavaScript (Node.js)...
-- 📫 How to reach me vryzas27@gmail.com or ispg2019103248@ispgaya.pt
+- 👀 I’m a Software Developer (always learning)
+- 🌱 I’m usually using JavaScript/Typescript (Node.js, NestJs, React)...
+- 📫 How to reach me vryzas27@gmail.com or vitor.costa@exaud.com
 
 <!---
 Vryzas/Vryzas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
